@@ -1,4 +1,4 @@
-🌐 Operadores Funções:
+🧮 Operadores Funções:
 ---
 Este repositório contém um projeto de **Desenvolvimento Web** com foco na prática e entendimento dos **operadores matemáticos e funções em JavaScript**, aplicado a conceitos básicos de programação.
 
