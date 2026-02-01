@@ -27,5 +27,6 @@ Operadores-Funcoes/ │ ├── index.html ├── css/ │ └── style.
 - Operadores aritméticos, lógicos e de comparação em JavaScript
 - Declaração e uso de funções em JavaScript (funções nomeadas, anônimas e arrow functions)
 - Manipulação básica de interatividade com JavaScript
+- Boas práticas em projetos web simples
 
 👤 Autor: Esdra Fontes
